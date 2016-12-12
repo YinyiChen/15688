@@ -1,5 +1,16 @@
+1.
+Group Member : 
+Teng Zhong (tzhong)
+Yinyi Chen(yinyic)
+Di Li(dil2)
+
+2.
 The code in our notebook is complete except for the part of naive bayes learning. However we generally do not recommend running the code as gathering data from Twitter API could take very long. That said, you are more than welcome to take a look at the data we've collected.
 
+3. nbviewer url:
+http://nbviewer.jupyter.org/github/YinyiChen/15688/blob/master/15688%20Final%20Report.ipynb?flush_cache=true
+
+4.
 Where we have users tweets stored in separate files, one for each user: 
 https://drive.google.com/drive/u/1/folders/0B2LRjJrEbaEFYXZ0ZDhuYkk5U3M
 
